@@ -1,6 +1,6 @@
-                                                          Hi 👋, I'm Shailesh Gaddam
+                                                          **Hi 👋, I'm Shailesh Gaddam
 
-                                                A passionate Machine Learning Engineer from India
+                                                A passionate Machine Learning Engineer from India**
 
 -  I’m currently working on my Personal Project
 
