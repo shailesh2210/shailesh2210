@@ -1,6 +1,6 @@
                                                           Hi 👋, I'm Shailesh Gaddam
 
-                                                A passionate Machine Learning Engineer from India
+                                             
 
 -  I’m currently learning Data Science and Deep Learning
 - How to reach me shaileshgaddam22@gmail.com
