@@ -3,7 +3,6 @@
                                              
 
 -  I’m currently learning Deep Learning
-- How to reach me shaileshgaddam22@gmail.com
 
 
 
