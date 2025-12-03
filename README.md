@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh2210&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh2210" /> </p>
 
 <p align="center"> A passionate data scientist from India</p>
- ### :fire: My Stats :  </p>
+  :fire: My Stats :  </p>
 <p align="center">
 </p>
 
